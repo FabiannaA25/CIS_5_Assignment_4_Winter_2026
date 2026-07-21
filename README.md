@@ -47,4 +47,4 @@ High performers (>=80): 6
 - Upload to Canvas + GitHub repo
 
 ## Youtube Link
-insert youtube link here
+https://youtu.be/uEXRe5OmNrw
